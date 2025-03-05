@@ -1,6 +1,8 @@
 # Setup
 name:         test
-tagline:      test2222
+author:      naearu
+description:      test2222
+keywords:      test2222
 baseurl:      ""
 locale:       "en"
 
