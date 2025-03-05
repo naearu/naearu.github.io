@@ -1,7 +1,15 @@
 ---
 layout: default
 ---
-<h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }}</p>
 
-{{ content }}
+
+        <section id="main-content">
+          <h2>{{ page.title }}</h2>
+          <p class="meta">{{ page.date | date_to_string }}</p>
+
+          {{ content }}
+
+        </section>
+
+        <aside id="sidebar">
+        </aside>
