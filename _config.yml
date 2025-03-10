@@ -4,11 +4,6 @@ author:      naearu
 description: ""
 keywords:    ""
 baseurl:     ""
-locale:      en"
+locale:      ko_KR
+timezone:    Asia/Seoul
 
-# Gems
-gems:
-  - jekyll-paginate
-
-#Others
-markdown: kramdown
