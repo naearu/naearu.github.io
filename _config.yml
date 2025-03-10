@@ -1,10 +1,10 @@
 # Setup
-name:         test
+name:        Naearu
 author:      naearu
-description:      test2222
-keywords:      test2222
-baseurl:      ""
-locale:       "en"
+description: ""
+keywords:    ""
+baseurl:     ""
+locale:      en"
 
 # Gems
 gems:
